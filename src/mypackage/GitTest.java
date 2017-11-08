@@ -1,11 +1,10 @@
 package mypackage;
 
-public class JavaTest {
+public class GitTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hi! java!");
-		System.out.println("Hi! java2!");
+
 	}
 
 }
